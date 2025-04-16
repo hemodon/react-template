@@ -1,0 +1,8 @@
+@use 'style/fonts.scss';
+
+$color: tomato;
+
+body {
+  background-color: $color;
+  font-family: Montserrat, sans-serif;
+}
